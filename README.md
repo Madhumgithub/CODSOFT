@@ -1,7 +1,7 @@
-# CODSOFT AI Internship Tasks
-This repository contains my work for the Artificial Intelligence Internship at CODSOFT. The tasks include:
-- Task 1: College Assistant Chatbot (Rule-Based)
-- Task 2: Tic-Tac-Toe AI
-- Task 3: Image Captioning
+# Chatbot - Rule-Based
 
-All code is written in Python and utilizes machine learning algorithms and techniques.
+This project is a simple rule-based chatbot built using Python. It uses basic `if-else` conditions to respond to predefined user inputs.
+
+## Features:
+- Responds to common user queries like greetings, time, and simple questions.
+- Demonstrates natural language processing using rule-based responses.
